@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://michael-nitschke.github.io/portfolio/
 languageCode: en-us
-title: My New Hugo Site
+title: Michael Nitschke
 theme: ["PaperMod"]
 caches:
   images:
